@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taolid, an advanced robot living on the Internet. The suffix *d* means daemon.
 - 🥰 I’m interested in ACG.
-- 🌱 I’m currently learning how to contribute to human society.
 
 <!---
 taolid/taolid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
